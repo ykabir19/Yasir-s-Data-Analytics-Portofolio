@@ -6,10 +6,10 @@
 
 Welcome to the London Housing Supply Analysis Project! This project aims to investigate the impact of economic and social factors on the supply of houses in London. By examining the relationship between population, number of jobs, interest rates, life satisfaction, and mean salary, we aim to provide valuable insights for policy makers, real estate professionals, and researchers interested in the London housing market.
 
-# Project Overview
+## Project Overview
 The London Housing Supply Analysis Project combines data from various sources to explore the influence of economic and social factors on the supply of houses in London. Our dataset spans a 20-year period from 2000 to 2019, allowing us to identify both short-term and long-term trends. With this comprehensive analysis, we seek to better understand the underlying forces shaping the housing market and provide valuable recommendations for addressing current challenges.
 
-# Features
+## Features
 * Detailed descriptive statistics of the variables
 * Correlation analysis to identify relationships between variables and avoid multicollinearity issues
 * Stationary tests to ensure accurate regression results
@@ -17,12 +17,12 @@ The London Housing Supply Analysis Project combines data from various sources to
 * Robust conclusions and actionable recommendations
 
 
-# [Project 2: Real Canadian Superstore EDA] ()
+# [Project 2: Real Canadian Superstore EDA] (https://github.com/ykabir19/ykabir19/blob/2ccf8e25ce55183c4218b00a5280c19275b323d9/Exploratory%20Data%20Analysis%20Real%20Canadian%20Super%20store%20.R)
 ![image](https://user-images.githubusercontent.com/116688829/234446156-7d2afb2d-0f31-4133-8ef6-ab2bb8e62494.png)
 
 The Real Canadian Superstore is a chain of supermarkets in Canada owned by the retailing giant Loblaw companies. This project aims to analyze the company's dataset to gain insights on the company's performance, customer behavior, and product information. The ultimate goal is to demonstrate how Data Analytics techniques can be used in the retail industry top  improve efficiency and industry performance.
 
-# Dataset Information 
+## Dataset Information 
 Dataset URL: https://www.kaggle.com/datasets/shrutigupta2495/the-real-canadian-superstore-dataset
 Dataset Details:
 
@@ -31,7 +31,7 @@ Number of Columns: 27
 Number of Rows: 35339
 File Format: .csv
 
-# Data Analysis and Results
+## Data Analysis and Results
 
 
 Using RStudio, the dataset will be analyzed, focusing on:
@@ -42,7 +42,7 @@ Using RStudio, the dataset will be analyzed, focusing on:
 * Relationship between Profit, Sales, Quantity, and Discount
 * Regression Analysis
 
-# Results and Recommendations
+## Results and Recommendations
 
 Based on the analysis, the following recommendations can be made to improve the Real Canadian Superstore's performance:
 * Increase advertisement and offer more discounts in Central and Atlantic regions to improve sales.
