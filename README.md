@@ -52,6 +52,7 @@ Based on the analysis, the following recommendations can be made to improve the 
 
 
 # [Project 3: Impact ofData Analytics on Marketing Strategies: Customer Segmentation using RFM Analysis](https://github.com/ykabir19/ykabir19/blob/2ccf8e25ce55183c4218b00a5280c19275b323d9/Customer_Segmentation_Using_RFM_analysis_.ipynb)
+![image](https://user-images.githubusercontent.com/116688829/234449236-7d6a58f5-4c7d-4c59-9747-9bbafb43a637.png)
 
 ## Overview 
 This project aims to analyze the impact of Data analytics on marketing strategies, specifically customer segmentation. Using the Online Retail II dataset from the UCI Machine Learning Repository, an RFM (Recency, Frequency, Monetary) analysis is performed to segment customers based on their purchase behavior. The effectiveness of personalized marketing campaigns through these segments is evaluated, and insights are uncovered that can help businesses optimize their marketing efforts and drive revenue growth.
@@ -59,14 +60,14 @@ This project aims to analyze the impact of Data analytics on marketing strategie
 ## Dataset 
 The dataset used in this project is the Online Retail II dataset from the UCI Machine Learning Repository. It contains transactional data for an online retailer and includes variables such as Quantity, Price, and Customer ID. The dataset can be downloaded from https://archive.ics.uci.edu/ml/datasets/Online+Retail+II.
 
-##Methodology
+## Methodology
 Data Analysis and Preprocessing: The dataset is first loaded, cleaned, and preprocessed, handling any missing values and outliers.
 * Exploratory Data Analysis (EDA): Descriptive statistics and visualizations are used to explore the dataset, understand the distribution of numeric variables, and identify any trends or patterns.
 * RFM Analysis: The RFM analysis is performed, calculating Recency, Frequency, and Monetary value for each customer. An optimal number of clusters is determined using the elbow method, and customers are segmented into these clusters using the K-means clustering algorithm.
 * Further Segmentation and Marketing Strategies: Based on the RFM analysis, customers are further segmented into distinct groups, such as Champions, Loyal Customers, At-Risk Customers, New Customers, and Lost Customers. Targeted marketing strategies are proposed for each group to optimize marketing efforts and improve customer retention and acquisition.
 * Conclusion: The results of the analysis are summarized, highlighting the importance of understanding customer behavior for targeted marketing strategies. Theoretical contributions, practical implications, research limitations, and future research recommendations are also discussed.
 
-##Dependencies
+## Dependencies
 * Python 3.11.2
 * Pandas
 * Numpy
