@@ -17,7 +17,7 @@ The London Housing Supply Analysis Project combines data from various sources to
 * Robust conclusions and actionable recommendations
 
 
-# [Project 2: Real Canadian Superstore EDA] (https://github.com/ykabir19/ykabir19/blob/2ccf8e25ce55183c4218b00a5280c19275b323d9/Exploratory%20Data%20Analysis%20Real%20Canadian%20Super%20store%20.R)
+# [Project 2: Real Canadian Superstore EDA](https://github.com/ykabir19/ykabir19/blob/2ccf8e25ce55183c4218b00a5280c19275b323d9/Exploratory%20Data%20Analysis%20Real%20Canadian%20Super%20store%20.R)
 ![image](https://user-images.githubusercontent.com/116688829/234446156-7d2afb2d-0f31-4133-8ef6-ab2bb8e62494.png)
 
 The Real Canadian Superstore is a chain of supermarkets in Canada owned by the retailing giant Loblaw companies. This project aims to analyze the company's dataset to gain insights on the company's performance, customer behavior, and product information. The ultimate goal is to demonstrate how Data Analytics techniques can be used in the retail industry top  improve efficiency and industry performance.
